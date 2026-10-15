@@ -1,0 +1,347 @@
+{"kind":"deck","id":"pr/vbqiuo","name":"Deck"}
+{"kind":"layout","layoutId":"c2a61689-4ac5-4e18-9cdc-22f4d3186a65","name":"Master","type":"master"}
+{"kind":"layout","layoutId":"e802ef78-6a42-40e8-8e58-40c6c7dc4932","name":"Title Slide","type":"title"}
+{"kind":"slide","id":"sl/zlxql0","slide":1,"title":"Industrial Training Presentation","textShapes":6}
+{"kind":"textbox","id":"sh/5k3ql03i","slide":1,"text":"Industrial Training Presentation","textPreview":"Industrial Training Presentation","textChars":32,"textLines":1,"bbox":[237,23,989,69]}
+{"kind":"textbox","id":"sh/ihc7qlkr","slide":1,"text":"MERN + LANGCHAIN + GEMINI","textPreview":"MERN + LANGCHAIN + GEMINI","textChars":25,"textLines":1,"bbox":[58,147,480,24]}
+{"kind":"textbox","id":"sh/3il8jqlc","slide":1,"text":"AI Customer\nSupport Chatbot","textPreview":"AI Customer | Support Chatbot","textChars":27,"textLines":2,"bbox":[58,182,515,190]}
+{"kind":"textbox","id":"sh/s7epwf29","slide":1,"text":"A RAG-powered support platform that answers policy questions, performs account actions, and hands complex cases to human agents.","textPreview":"A RAG-powered support platform that answers policy questions, performs account actions, and hands complex cases to human agents.","textChars":128,"textLines":1,"bbox":[58,394,505,116]}
+{"kind":"shape","id":"sh/q5w7u5k3","slide":1,"bbox":[58,595,1147,0]}
+{"kind":"textbox","id":"sh/r658nalo","slide":1,"text":"Project presentation","textPreview":"Project presentation","textChars":20,"textLines":1,"bbox":[58,617,260,28]}
+{"kind":"textbox","id":"sh/0be90f25","slide":1,"text":"Source: working codebase and verified unit tests","textPreview":"Source: working codebase and verified unit tests","textChars":48,"textLines":1,"bbox":[820,617,385,28]}
+{"kind":"image","id":"im/wjmt0jep","slide":1,"name":"","geometry":"roundRect","alt":"Helix support chatbot landing page","bbox":[615,139,590,332]}
+{"kind":"notes","id":"nt/zlxql0","slide":1,"text":"Heading style reference: Industrial Training Presentation Template [Autosaved].pptx.\nProject sources: README.md and client/server source files."}
+{"kind":"slide","id":"sl/ue9aq1","slide":2,"title":"Project Overview","textShapes":17}
+{"kind":"textbox","id":"sh/wj2xc3a5","slide":2,"text":"Project Overview","textPreview":"Project Overview","textChars":16,"textLines":1,"bbox":[237,23,989,69]}
+{"kind":"textbox","id":"sh/bitw3ytk","slide":2,"text":"02","textPreview":"02","textChars":2,"textLines":1,"bbox":[54,37,110,34]}
+{"kind":"shape","id":"sh/ah0fatsf","slide":2,"bbox":[54,679,1172,0]}
+{"kind":"textbox","id":"sh/9gre1obu","slide":2,"text":"AI Customer Support Chatbot","textPreview":"AI Customer Support Chatbot","textChars":27,"textLines":1,"bbox":[54,689,360,18]}
+{"kind":"textbox","id":"sh/ofix8ja9","slide":2,"text":"2","textPreview":"2","textChars":1,"textLines":1,"bbox":[1160,689,66,18]}
+{"kind":"textbox","id":"sh/ne9wzeto","slide":2,"text":"THE PROBLEM","textPreview":"THE PROBLEM","textChars":11,"textLines":1,"bbox":[62,132,480,24]}
+{"kind":"textbox","id":"sh/mt0v69s3","slide":2,"text":"Support teams repeat the same policy answers while order actions and difficult conversations still require secure access to business data.","textPreview":"Support teams repeat the same policy answers while order actions and difficult conversations still require secure access to business data.","textChars":138,"textLines":1,"bbox":[62,166,520,120]}
+{"kind":"textbox","id":"sh/1srex4bi","slide":2,"text":"This project combines grounded answers with controlled tool use so one conversation can move from information to action and, when needed, to a human agent.","textPreview":"This project combines grounded answers with controlled tool use so one conversation can move from information to action and, when needed,...","textChars":155,"textLines":1,"bbox":[62,315,520,112]}
+{"kind":"textbox","id":"sh/0rid4jax","slide":2,"text":"4","textPreview":"4","textChars":1,"textLines":1,"bbox":[665,158,210,68]}
+{"kind":"textbox","id":"sh/61cfap8n","slide":2,"text":"purpose-built agent tools","textPreview":"purpose-built agent tools","textChars":25,"textLines":1,"bbox":[665,225,210,48]}
+{"kind":"textbox","id":"sh/r2lgju98","slide":2,"text":"14","textPreview":"14","textChars":2,"textLines":1,"bbox":[937,158,210,68]}
+{"kind":"textbox","id":"sh/s3uxcfqt","slide":2,"text":"documented API endpoints","textPreview":"documented API endpoints","textChars":24,"textLines":1,"bbox":[937,225,210,48]}
+{"kind":"textbox","id":"sh/t4nylkre","slide":2,"text":"2","textPreview":"2","textChars":1,"textLines":1,"bbox":[665,343,210,68]}
+{"kind":"textbox","id":"sh/ixcf658r","slide":2,"text":"databases with distinct roles","textPreview":"databases with distinct roles","textChars":29,"textLines":1,"bbox":[665,410,210,48]}
+{"kind":"textbox","id":"sh/jylgfa9w","slide":2,"text":"1","textPreview":"1","textChars":1,"textLines":1,"bbox":[937,343,210,68]}
+{"kind":"textbox","id":"sh/4zux8fqh","slide":2,"text":"live human handoff channel","textPreview":"live human handoff channel","textChars":26,"textLines":1,"bbox":[937,410,210,48]}
+{"kind":"textbox","id":"sh/503yhkr2","slide":2,"text":"Scope","textPreview":"Scope","textChars":5,"textLines":1,"bbox":[665,538,110,30]}
+{"kind":"textbox","id":"sh/u9sf25sf","slide":2,"text":"Customer chat, knowledge ingestion, authentication, refunds, tickets, analytics, and audit trails.","textPreview":"Customer chat, knowledge ingestion, authentication, refunds, tickets, analytics, and audit trails.","textChars":98,"textLines":1,"bbox":[770,538,400,60]}
+{"kind":"notes","id":"nt/ue9aq1","slide":2,"text":"Source: README.md API and Agent Tools tables.\nCounts are derived from the documented routes and tool exports."}
+{"kind":"slide","id":"sl/l3ajdg","slide":3,"title":"Core Support Use Cases","textShapes":18}
+{"kind":"textbox","id":"sh/fqt8ru14","slide":3,"text":"Core Support Use Cases","textPreview":"Core Support Use Cases","textChars":22,"textLines":1,"bbox":[237,23,989,69]}
+{"kind":"textbox","id":"sh/grmp0zip","slide":3,"text":"03","textPreview":"03","textChars":2,"textLines":1,"bbox":[54,37,110,34]}
+{"kind":"shape","id":"sh/1svqtkja","slide":3,"bbox":[54,679,1172,0]}
+{"kind":"textbox","id":"sh/2t472p0f","slide":3,"text":"AI Customer Support Chatbot","textPreview":"AI Customer Support Chatbot","textChars":27,"textLines":1,"bbox":[54,689,360,18]}
+{"kind":"textbox","id":"sh/3ud8vu10","slide":3,"text":"3","textPreview":"3","textChars":1,"textLines":1,"bbox":[1160,689,66,18]}
+{"kind":"textbox","id":"sh/ovm94zil","slide":3,"text":"One conversation supports both informational questions and account-specific actions.","textPreview":"One conversation supports both informational questions and account-specific actions.","textChars":84,"textLines":1,"bbox":[62,119,1050,42]}
+{"kind":"shape","id":"sh/pwvqx4j6","slide":3,"bbox":[62,213,263,314]}
+{"kind":"textbox","id":"sh/ix07q5kb","slide":3,"text":"1","textPreview":"1","textChars":1,"textLines":1,"bbox":[80,234,48,48]}
+{"kind":"textbox","id":"sh/jy98ja1w","slide":3,"text":"Policy questions","textPreview":"Policy questions","textChars":16,"textLines":1,"bbox":[80,309,225,58]}
+{"kind":"textbox","id":"sh/76hc729s","slide":3,"text":"Hybrid retrieval returns the most relevant knowledge-base chunks.","textPreview":"Hybrid retrieval returns the most relevant knowledge-base chunks.","textChars":65,"textLines":1,"bbox":[80,384,225,112]}
+{"kind":"shape","id":"sh/658behsn","slide":3,"bbox":[354,213,263,314]}
+{"kind":"textbox","id":"sh/tszu9cry","slide":3,"text":"2","textPreview":"2","textChars":1,"textLines":1,"bbox":[372,234,48,48]}
+{"kind":"textbox","id":"sh/8rqdg7ad","slide":3,"text":"Order status","textPreview":"Order status","textChars":12,"textLines":1,"bbox":[372,309,225,58]}
+{"kind":"textbox","id":"sh/j2xc32tw","slide":3,"text":"The agent queries PostgreSQL for items, tracking, and status timestamps.","textPreview":"The agent queries PostgreSQL for items, tracking, and status timestamps.","textChars":72,"textLines":1,"bbox":[372,384,225,112]}
+{"kind":"shape","id":"sh/y1obaxsb","slide":3,"bbox":[646,213,263,314]}
+{"kind":"textbox","id":"sh/l4zu5cb2","slide":3,"text":"3","textPreview":"3","textChars":1,"textLines":1,"bbox":[664,234,48,48]}
+{"kind":"textbox","id":"sh/k3qtc7ah","slide":3,"text":"Refund request","textPreview":"Refund request","textChars":14,"textLines":1,"bbox":[664,309,225,58]}
+{"kind":"textbox","id":"sh/byxczit0","slide":3,"text":"Eligibility comes first. The system creates a refund only after explicit confirmation.","textPreview":"Eligibility comes first. The system creates a refund only after explicit confirmation.","textChars":86,"textLines":1,"bbox":[664,384,225,112]}
+{"kind":"shape","id":"sh/axob6dsf","slide":3,"bbox":[938,213,263,314]}
+{"kind":"textbox","id":"sh/et4vidc7","slide":3,"text":"4","textPreview":"4","textChars":1,"textLines":1,"bbox":[956,234,48,48]}
+{"kind":"textbox","id":"sh/zudcbids","slide":3,"text":"Human escalation","textPreview":"Human escalation","textChars":16,"textLines":1,"bbox":[956,309,225,58]}
+{"kind":"textbox","id":"sh/0vmdknud","slide":3,"text":"A high-priority ticket carries recent conversation context to the admin workspace.","textPreview":"A high-priority ticket carries recent conversation context to the admin workspace.","textChars":82,"textLines":1,"bbox":[956,384,225,112]}
+{"kind":"shape","id":"sh/1wfudsvi","slide":3,"bbox":[0,0,0,0]}
+{"kind":"shape","id":"sh/mxovmxc3","slide":3,"bbox":[0,0,0,0]}
+{"kind":"shape","id":"sh/nyxwf2do","slide":3,"bbox":[0,0,0,0]}
+{"kind":"textbox","id":"sh/oz6do7u9","slide":3,"text":"The same session ID links the chat, tool calls, and escalation context.","textPreview":"The same session ID links the chat, tool calls, and escalation context.","textChars":71,"textLines":1,"bbox":[62,574,1150,36]}
+{"kind":"notes","id":"nt/l3ajdg","slide":3,"text":"Source: server/rag/tools.js, server/rag/agent.js, and README.md."}
+{"kind":"slide","id":"sl/lc6ged","slide":4,"title":"Technology Stack","textShapes":15}
+{"kind":"textbox","id":"sh/zqlwvedc","slide":4,"text":"Technology Stack","textPreview":"Technology Stack","textChars":16,"textLines":1,"bbox":[237,23,989,69]}
+{"kind":"textbox","id":"sh/0rud4jux","slide":4,"text":"04","textPreview":"04","textChars":2,"textLines":1,"bbox":[54,37,110,34]}
+{"kind":"shape","id":"sh/lsnexov2","slide":4,"bbox":[54,679,1172,0]}
+{"kind":"textbox","id":"sh/q1cvy9cf","slide":4,"text":"AI Customer Support Chatbot","textPreview":"AI Customer Support Chatbot","textChars":27,"textLines":1,"bbox":[54,689,360,18]}
+{"kind":"textbox","id":"sh/b2lwred0","slide":4,"text":"4","textPreview":"4","textChars":1,"textLines":1,"bbox":[1160,689,66,18]}
+{"kind":"shape","id":"sh/cnud0zul","slide":4,"bbox":[75,124,1125,83]}
+{"kind":"shape","id":"sh/do3et4v6","slide":4,"bbox":[75,124,20,83]}
+{"kind":"textbox","id":"sh/2xsvupcj","slide":4,"text":"Experience","textPreview":"Experience","textChars":10,"textLines":1,"bbox":[124,146,215,40]}
+{"kind":"textbox","id":"sh/3y1cnud4","slide":4,"text":"React 19, Vite, Tailwind CSS, TanStack Router","textPreview":"React 19, Vite, Tailwind CSS, TanStack Router","textChars":45,"textLines":1,"bbox":[350,146,808,40]}
+{"kind":"shape","id":"sh/fihsbixw","slide":4,"bbox":[75,223,1125,83]}
+{"kind":"shape","id":"sh/eh8b2dwr","slide":4,"bbox":[75,223,20,83]}
+{"kind":"textbox","id":"sh/1kzadsf2","slide":4,"text":"Application","textPreview":"Application","textChars":11,"textLines":1,"bbox":[124,245,215,40]}
+{"kind":"textbox","id":"sh/0jqt4neh","slide":4,"text":"Node.js, Express, Socket.io, LangChain","textPreview":"Node.js, Express, Socket.io, LangChain","textChars":38,"textLines":1,"bbox":[350,245,808,40]}
+{"kind":"shape","id":"sh/n6hsfix8","slide":4,"bbox":[75,322,1125,83]}
+{"kind":"shape","id":"sh/2l8b6dwn","slide":4,"bbox":[75,322,20,83]}
+{"kind":"textbox","id":"sh/p8jahsfe","slide":4,"text":"Intelligence","textPreview":"Intelligence","textChars":12,"textLines":1,"bbox":[124,344,215,40]}
+{"kind":"textbox","id":"sh/o7at8net","slide":4,"text":"Gemini chat model and 768-dimensional embeddings","textPreview":"Gemini chat model and 768-dimensional embeddings","textChars":48,"textLines":1,"bbox":[350,344,808,40]}
+{"kind":"shape","id":"sh/3qxs3yx4","slide":4,"bbox":[75,421,1125,83]}
+{"kind":"shape","id":"sh/iporutwj","slide":4,"bbox":[75,421,20,83]}
+{"kind":"textbox","id":"sh/m5cv21gr","slide":4,"text":"Data","textPreview":"Data","textChars":4,"textLines":1,"bbox":[124,443,215,40]}
+{"kind":"textbox","id":"sh/765wb6hc","slide":4,"text":"PostgreSQL, MongoDB Atlas Vector Search, Cloudinary","textPreview":"PostgreSQL, MongoDB Atlas Vector Search, Cloudinary","textChars":51,"textLines":1,"bbox":[350,443,808,40]}
+{"kind":"shape","id":"sh/87ed4byx","slide":4,"bbox":[75,520,1125,83]}
+{"kind":"shape","id":"sh/t8nedgfi","slide":4,"bbox":[75,520,20,83]}
+{"kind":"textbox","id":"sh/y1cvyhgv","slide":4,"text":"Protection","textPreview":"Protection","textChars":10,"textLines":1,"bbox":[124,542,215,40]}
+{"kind":"textbox","id":"sh/z2lw7mhg","slide":4,"text":"JWT, refresh tokens, Helmet, rate limiting, PII masking","textPreview":"JWT, refresh tokens, Helmet, rate limiting, PII masking","textChars":55,"textLines":1,"bbox":[350,542,808,40]}
+{"kind":"textbox","id":"sh/k3ud0ry1","slide":4,"text":"The stack separates interface, orchestration, retrieval, business data, and operational controls.","textPreview":"The stack separates interface, orchestration, retrieval, business data, and operational controls.","textChars":97,"textLines":1,"bbox":[75,629,1125,30]}
+{"kind":"notes","id":"nt/lc6ged","slide":4,"text":"Source: README.md Stack section and package manifests."}
+{"kind":"slide","id":"sl/iqb32c","slide":5,"title":"System Architecture","textShapes":21}
+{"kind":"textbox","id":"sh/cze1gvuh","slide":5,"text":"System Architecture","textPreview":"System Architecture","textChars":19,"textLines":1,"bbox":[237,23,989,69]}
+{"kind":"textbox","id":"sh/by50nqdw","slide":5,"text":"05","textPreview":"05","textChars":2,"textLines":1,"bbox":[54,37,110,34]}
+{"kind":"shape","id":"sh/axcjelcb","slide":5,"bbox":[54,679,1172,0]}
+{"kind":"textbox","id":"sh/pw3ilgvq","slide":5,"text":"AI Customer Support Chatbot","textPreview":"AI Customer Support Chatbot","textChars":27,"textLines":1,"bbox":[54,689,360,18]}
+{"kind":"textbox","id":"sh/ovu1cbu5","slide":5,"text":"5","textPreview":"5","textChars":1,"textLines":1,"bbox":[1160,689,66,18]}
+{"kind":"shape","id":"sh/nul0j6dk","slide":5,"bbox":[70,139,230,120]}
+{"kind":"textbox","id":"sh/29cjalwz","slide":5,"text":"Client","textPreview":"Client","textChars":6,"textLines":1,"bbox":[91,161,188,32]}
+{"kind":"textbox","id":"sh/183ihgvu","slide":5,"text":"Chat UI\nAdmin workspace","textPreview":"Chat UI | Admin workspace","textChars":23,"textLines":2,"bbox":[91,204,188,46]}
+{"kind":"shape","id":"sh/07uh8be9","slide":5,"bbox":[382,139,230,120]}
+{"kind":"textbox","id":"sh/y9wbe18n","slide":5,"text":"API layer","textPreview":"API layer","textChars":9,"textLines":1,"bbox":[403,161,188,32]}
+{"kind":"textbox","id":"sh/ja5sn6p8","slide":5,"text":"REST routes\nSocket.io gateway","textPreview":"REST routes | Socket.io gateway","textChars":29,"textLines":2,"bbox":[403,204,188,46]}
+{"kind":"shape","id":"sh/kbetgbqt","slide":5,"bbox":[694,139,230,120]}
+{"kind":"textbox","id":"sh/lcnapw7e","slide":5,"text":"Agent loop","textPreview":"Agent loop","textChars":10,"textLines":1,"bbox":[715,161,188,32]}
+{"kind":"textbox","id":"sh/a5cbah8r","slide":5,"text":"Gemini model\nTool execution","textPreview":"Gemini model | Tool execution","textChars":27,"textLines":2,"bbox":[715,204,188,46]}
+{"kind":"shape","id":"sh/b6lsjmpc","slide":5,"bbox":[1006,139,200,120]}
+{"kind":"textbox","id":"sh/w7utcrqx","slide":5,"text":"Response","textPreview":"Response","textChars":8,"textLines":1,"bbox":[1024,161,164,32]}
+{"kind":"textbox","id":"sh/x8nalw7i","slide":5,"text":"Answer or\nhandoff","textPreview":"Answer or | handoff","textChars":17,"textLines":2,"bbox":[1024,204,164,46]}
+{"kind":"shape","id":"sh/m1cb6h8f","slide":5,"bbox":[0,0,0,0]}
+{"kind":"shape","id":"sh/n2lsfmp0","slide":5,"bbox":[0,0,0,0]}
+{"kind":"shape","id":"sh/raxgre1w","slide":5,"bbox":[0,0,0,0]}
+{"kind":"textbox","id":"sh/q9ozy9kb","slide":5,"text":"CONNECTED SERVICES","textPreview":"CONNECTED SERVICES","textChars":18,"textLines":1,"bbox":[70,322,300,24]}
+{"kind":"shape","id":"sh/dwzytojm","slide":5,"bbox":[70,372,263,166]}
+{"kind":"shape","id":"sh/sbqh0j21","slide":5,"bbox":[70,372,263,12]}
+{"kind":"textbox","id":"sh/fyhgvy1s","slide":5,"text":"PostgreSQL","textPreview":"PostgreSQL","textChars":10,"textLines":1,"bbox":[88,407,226,31]}
+{"kind":"textbox","id":"sh/ex8z2tk7","slide":5,"text":"Users, orders, refunds, tickets","textPreview":"Users, orders, refunds, tickets","textChars":31,"textLines":1,"bbox":[88,457,226,54]}
+{"kind":"shape","id":"sh/10zix8jy","slide":5,"bbox":[0,0,0,0]}
+{"kind":"shape","id":"sh/0zqh432d","slide":5,"bbox":[363,372,263,166]}
+{"kind":"shape","id":"sh/v2dgju1o","slide":5,"bbox":[363,372,263,12]}
+{"kind":"textbox","id":"sh/u14fqpk3","slide":5,"text":"MongoDB Atlas","textPreview":"MongoDB Atlas","textChars":13,"textLines":1,"bbox":[381,407,226,31]}
+{"kind":"textbox","id":"sh/k72d0vi1","slide":5,"text":"Sessions, document chunks, vectors","textPreview":"Sessions, document chunks, vectors","textChars":34,"textLines":1,"bbox":[381,457,226,54]}
+{"kind":"shape","id":"sh/l8bet0z6","slide":5,"bbox":[0,0,0,0]}
+{"kind":"shape","id":"sh/ylkvyl0v","slide":5,"bbox":[656,372,263,166]}
+{"kind":"shape","id":"sh/z6twrqhg","slide":5,"bbox":[656,372,263,12]}
+{"kind":"textbox","id":"sh/cjidwvip","slide":5,"text":"Cloudinary","textPreview":"Cloudinary","textChars":10,"textLines":1,"bbox":[674,407,226,31]}
+{"kind":"textbox","id":"sh/xkrep0za","slide":5,"text":"Uploaded knowledge documents","textPreview":"Uploaded knowledge documents","textChars":28,"textLines":1,"bbox":[674,457,226,54]}
+{"kind":"shape","id":"sh/ah0vul0j","slide":5,"bbox":[0,0,0,0]}
+{"kind":"shape","id":"sh/bi9wnqh4","slide":5,"bbox":[949,372,263,166]}
+{"kind":"shape","id":"sh/wfmx8fit","slide":5,"bbox":[949,372,263,12]}
+{"kind":"textbox","id":"sh/hgve1kze","slide":5,"text":"Audit log","textPreview":"Audit log","textChars":9,"textLines":1,"bbox":[967,407,226,31]}
+{"kind":"textbox","id":"sh/dknatcf6","slide":5,"text":"PII-masked tool events","textPreview":"PII-masked tool events","textChars":22,"textLines":1,"bbox":[967,457,226,54]}
+{"kind":"shape","id":"sh/sjet07yl","slide":5,"bbox":[0,0,0,0]}
+{"kind":"notes","id":"nt/iqb32c","slide":5,"text":"Source: README.md architecture diagram and server implementation."}
+{"kind":"slide","id":"sl/55dbil","slide":6,"title":"Hybrid RAG Pipeline","textShapes":16}
+{"kind":"textbox","id":"sh/54rahkf2","slide":6,"text":"Hybrid RAG Pipeline","textPreview":"Hybrid RAG Pipeline","textChars":19,"textLines":1,"bbox":[237,23,989,69]}
+{"kind":"textbox","id":"sh/yhgb65gr","slide":6,"text":"06","textPreview":"06","textChars":2,"textLines":1,"bbox":[54,37,110,34]}
+{"kind":"shape","id":"sh/ji9sfaxc","slide":6,"bbox":[54,679,1172,0]}
+{"kind":"textbox","id":"sh/wfyt4fyl","slide":6,"text":"AI Customer Support Chatbot","textPreview":"AI Customer Support Chatbot","textChars":27,"textLines":1,"bbox":[54,689,360,18]}
+{"kind":"textbox","id":"sh/xg7adkf6","slide":6,"text":"6","textPreview":"6","textChars":1,"textLines":1,"bbox":[1160,689,66,18]}
+{"kind":"textbox","id":"sh/adgb25gf","slide":6,"text":"Semantic retrieval and exact-term matching run in parallel before rank fusion and reranking.","textPreview":"Semantic retrieval and exact-term matching run in parallel before rank fusion and reranking.","textChars":92,"textLines":1,"bbox":[62,119,1120,42]}
+{"kind":"shape","id":"sh/bepsbax0","slide":6,"bbox":[61,235,170,112]}
+{"kind":"textbox","id":"sh/gb2tgzep","slide":6,"text":"User query","textPreview":"User query","textChars":10,"textLines":1,"bbox":[81,267,130,40]}
+{"kind":"shape","id":"sh/hcbup4fa","slide":6,"bbox":[326,168,215,112]}
+{"kind":"textbox","id":"sh/h03694bm","slide":6,"text":"Vector search","textPreview":"Vector search","textChars":13,"textLines":1,"bbox":[347,190,173,32]}
+{"kind":"textbox","id":"sh/gzupgja1","slide":6,"text":"Semantic similarity","textPreview":"Semantic similarity","textChars":19,"textLines":1,"bbox":[347,233,173,28]}
+{"kind":"shape","id":"sh/vylo7etg","slide":6,"bbox":[326,330,215,112]}
+{"kind":"textbox","id":"sh/uxc7e9sv","slide":6,"text":"Keyword search","textPreview":"Keyword search","textChars":14,"textLines":1,"bbox":[347,352,173,32]}
+{"kind":"textbox","id":"sh/tw3654bq","slide":6,"text":"Exact terms","textPreview":"Exact terms","textChars":11,"textLines":1,"bbox":[347,395,173,28]}
+{"kind":"shape","id":"sh/8vapcza5","slide":6,"bbox":[642,235,210,112]}
+{"kind":"textbox","id":"sh/7a1o3utk","slide":6,"text":"RRF fusion","textPreview":"RRF fusion","textChars":10,"textLines":1,"bbox":[663,258,168,32]}
+{"kind":"textbox","id":"sh/69s7apsz","slide":6,"text":"Merge ranked lists","textPreview":"Merge ranked lists","textChars":18,"textLines":1,"bbox":[663,301,168,28]}
+{"kind":"shape","id":"sh/dsnqhobu","slide":6,"bbox":[952,235,250,112]}
+{"kind":"textbox","id":"sh/srepo3a9","slide":6,"text":"Term-overlap reranker","textPreview":"Term-overlap reranker","textChars":21,"textLines":1,"bbox":[969,252,216,60]}
+{"kind":"textbox","id":"sh/cn610rmx","slide":6,"text":"Top 4 chunks","textPreview":"Top 4 chunks","textChars":12,"textLines":1,"bbox":[969,314,216,24]}
+{"kind":"shape","id":"sh/xofi9w32","slide":6,"bbox":[0,0,0,0]}
+{"kind":"shape","id":"sh/alojy14r","slide":6,"bbox":[0,0,0,0]}
+{"kind":"shape","id":"sh/bmx07m5c","slide":6,"bbox":[0,0,0,0]}
+{"kind":"shape","id":"sh/ojmhwrml","slide":6,"bbox":[0,0,0,0]}
+{"kind":"shape","id":"sh/pkvi5wn6","slide":6,"bbox":[0,0,0,0]}
+{"kind":"textbox","id":"sh/2h4zuh4f","slide":6,"text":"Why hybrid retrieval matters","textPreview":"Why hybrid retrieval matters","textChars":28,"textLines":1,"bbox":[62,507,300,30]}
+{"kind":"textbox","id":"sh/nid03m50","slide":6,"text":"Vector search handles paraphrases. Keyword search protects exact matches such as order IDs, SKUs, and product names.","textPreview":"Vector search handles paraphrases. Keyword search protects exact matches such as order IDs, SKUs, and product names.","textChars":116,"textLines":1,"bbox":[62,549,1125,60]}
+{"kind":"notes","id":"nt/55dbil","slide":6,"text":"Source: server/rag/vectorStore.js.\nThe implementation retrieves two times the target candidate count, applies RRF, then returns the top four reranked chunks."}
+{"kind":"slide","id":"sl/l4w3o4","slide":7,"title":"Agent Tools and Workflow","textShapes":21}
+{"kind":"textbox","id":"sh/hwnehojq","slide":7,"text":"Agent Tools and Workflow","textPreview":"Agent Tools and Workflow","textChars":24,"textLines":1,"bbox":[237,23,989,69]}
+{"kind":"textbox","id":"sh/utcvmtkz","slide":7,"text":"07","textPreview":"07","textChars":2,"textLines":1,"bbox":[54,37,110,34]}
+{"kind":"shape","id":"sh/fulwfe1k","slide":7,"bbox":[54,679,1172,0]}
+{"kind":"textbox","id":"sh/s7udkj29","slide":7,"text":"AI Customer Support Chatbot","textPreview":"AI Customer Support Chatbot","textChars":27,"textLines":1,"bbox":[54,689,360,18]}
+{"kind":"textbox","id":"sh/ts3edoju","slide":7,"text":"7","textPreview":"7","textChars":1,"textLines":1,"bbox":[1160,689,66,18]}
+{"kind":"shape","id":"sh/65cvi9k3","slide":7,"bbox":[62,135,535,105]}
+{"kind":"shape","id":"sh/76lwbe1o","slide":7,"bbox":[62,135,12,105]}
+{"kind":"textbox","id":"sh/c3yxw3id","slide":7,"text":"check_order_status","textPreview":"check_order_status","textChars":18,"textLines":1,"bbox":[91,152,470,30]}
+{"kind":"textbox","id":"sh/do7ep8jy","slide":7,"text":"Reads order items, tracking, and lifecycle timestamps.","textPreview":"Reads order items, tracking, and lifecycle timestamps.","textChars":54,"textLines":1,"bbox":[91,190,470,40]}
+{"kind":"shape","id":"sh/l87ex8be","slide":7,"bbox":[62,254,535,105]}
+{"kind":"shape","id":"sh/k7yx43ut","slide":7,"bbox":[62,254,12,105]}
+{"kind":"textbox","id":"sh/j6pwvyt8","slide":7,"text":"initiate_refund","textPreview":"initiate_refund","textChars":15,"textLines":1,"bbox":[91,271,470,30]}
+{"kind":"textbox","id":"sh/y5gf2tcn","slide":7,"text":"Checks eligibility, requests confirmation, then creates a refund.","textPreview":"Checks eligibility, requests confirmation, then creates a refund.","textChars":65,"textLines":1,"bbox":[91,309,470,40]}
+{"kind":"shape","id":"sh/x47etobi","slide":7,"bbox":[62,373,535,105]}
+{"kind":"shape","id":"sh/wjyx0jux","slide":7,"bbox":[62,373,12,105]}
+{"kind":"textbox","id":"sh/bipwrydc","slide":7,"text":"search_knowledge_base","textPreview":"search_knowledge_base","textChars":21,"textLines":1,"bbox":[91,390,470,30]}
+{"kind":"textbox","id":"sh/ahwfytcr","slide":7,"text":"Returns grounded context from hybrid retrieval.","textPreview":"Returns grounded context from hybrid retrieval.","textChars":47,"textLines":1,"bbox":[91,428,470,40]}
+{"kind":"shape","id":"sh/h0ry5sbm","slide":7,"bbox":[62,492,535,105]}
+{"kind":"shape","id":"sh/gfixcnu1","slide":7,"bbox":[62,492,12,105]}
+{"kind":"textbox","id":"sh/0jqh8r2d","slide":7,"text":"escalate_to_human","textPreview":"escalate_to_human","textChars":17,"textLines":1,"bbox":[91,509,470,30]}
+{"kind":"textbox","id":"sh/1kzy1wjy","slide":7,"text":"Creates a ticket with recent conversation context.","textPreview":"Creates a ticket with recent conversation context.","textChars":50,"textLines":1,"bbox":[91,547,470,40]}
+{"kind":"textbox","id":"sh/eh8z61k7","slide":7,"text":"EXECUTION LOOP","textPreview":"EXECUTION LOOP","textChars":14,"textLines":1,"bbox":[681,135,460,24]}
+{"kind":"shape","id":"sh/fihgzm1s","slide":7,"bbox":[681,181,481,78]}
+{"kind":"textbox","id":"sh/sfqh4r21","slide":7,"text":"1","textPreview":"1","textChars":1,"textLines":1,"bbox":[697,198,42,42]}
+{"kind":"textbox","id":"sh/dgzyxwjm","slide":7,"text":"Build system prompt and session context","textPreview":"Build system prompt and session context","textChars":39,"textLines":1,"bbox":[758,199,382,42]}
+{"kind":"shape","id":"sh/qdoz2hkb","slide":7,"bbox":[681,277,481,78]}
+{"kind":"textbox","id":"sh/rehgvm1g","slide":7,"text":"2","textPreview":"2","textChars":1,"textLines":1,"bbox":[697,294,42,42]}
+{"kind":"textbox","id":"sh/4b6h0725","slide":7,"text":"Ask Gemini for a response or tool call","textPreview":"Ask Gemini for a response or tool call","textChars":38,"textLines":1,"bbox":[758,295,382,42]}
+{"kind":"shape","id":"sh/5cfytcjq","slide":7,"bbox":[681,373,481,78]}
+{"kind":"textbox","id":"sh/7md0j25c","slide":7,"text":"3","textPreview":"3","textChars":1,"textLines":1,"bbox":[697,390,42,42]}
+{"kind":"textbox","id":"sh/6l4zax4r","slide":7,"text":"Execute the selected tool and audit the event","textPreview":"Execute the selected tool and audit the event","textChars":45,"textLines":1,"bbox":[758,391,382,42]}
+{"kind":"shape","id":"sh/tofilcni","slide":7,"bbox":[681,469,481,78]}
+{"kind":"textbox","id":"sh/8n6hc7mx","slide":7,"text":"4","textPreview":"4","textChars":1,"textLines":1,"bbox":[697,486,42,42]}
+{"kind":"textbox","id":"sh/vax0nmlo","slide":7,"text":"Return the final answer within six tool rounds","textPreview":"Return the final answer within six tool rounds","textChars":46,"textLines":1,"bbox":[758,487,382,42]}
+{"kind":"shape","id":"sh/u9ozeh43","slide":7,"bbox":[0,0,0,0]}
+{"kind":"shape","id":"sh/hcfipc3e","slide":7,"bbox":[0,0,0,0]}
+{"kind":"shape","id":"sh/gb6hgrmt","slide":7,"bbox":[0,0,0,0]}
+{"kind":"notes","id":"nt/l4w3o4","slide":7,"text":"Source: server/rag/agent.js and server/rag/tools.js."}
+{"kind":"slide","id":"sl/ce6v5s","slide":8,"title":"Security and Guardrails","textShapes":25}
+{"kind":"textbox","id":"sh/i5gnq9kn","slide":8,"text":"Security and Guardrails","textPreview":"Security and Guardrails","textChars":23,"textLines":1,"bbox":[237,23,989,69]}
+{"kind":"textbox","id":"sh/58r614je","slide":8,"text":"08","textPreview":"08","textChars":2,"textLines":1,"bbox":[54,37,110,34]}
+{"kind":"shape","id":"sh/k7i5sj2t","slide":8,"bbox":[54,679,1172,0]}
+{"kind":"textbox","id":"sh/b2povu1c","slide":8,"text":"AI Customer Support Chatbot","textPreview":"AI Customer Support Chatbot","textChars":27,"textLines":1,"bbox":[54,689,360,18]}
+{"kind":"textbox","id":"sh/a1gnmpkr","slide":8,"text":"8","textPreview":"8","textChars":1,"textLines":1,"bbox":[1160,689,66,18]}
+{"kind":"textbox","id":"sh/x476x4j2","slide":8,"text":"6","textPreview":"6","textChars":1,"textLines":1,"bbox":[71,141,180,100]}
+{"kind":"textbox","id":"sh/w3y5oz2h","slide":8,"text":"layers of operational protection","textPreview":"layers of operational protection","textChars":32,"textLines":1,"bbox":[71,238,245,75]}
+{"kind":"textbox","id":"sh/fyto7y1g","slide":8,"text":"The controls protect access, limit abuse, constrain tool use, and reduce sensitive data exposure in logs.","textPreview":"The controls protect access, limit abuse, constrain tool use, and reduce sensitive data exposure in logs.","textChars":105,"textLines":1,"bbox":[71,339,265,114]}
+{"kind":"shape","id":"sh/uxknytkv","slide":8,"bbox":[394,130,365,126]}
+{"kind":"textbox","id":"sh/kjy1c36t","slide":8,"text":"01","textPreview":"01","textChars":2,"textLines":1,"bbox":[411,147,42,25]}
+{"kind":"textbox","id":"sh/lk72587e","slide":8,"text":"Authentication","textPreview":"Authentication","textChars":14,"textLines":1,"bbox":[464,145,270,29]}
+{"kind":"textbox","id":"sh/yxgjaton","slide":8,"text":"Short-lived JWT access tokens and refresh-token rotation","textPreview":"Short-lived JWT access tokens and refresh-token rotation","textChars":56,"textLines":1,"bbox":[411,187,330,55]}
+{"kind":"shape","id":"sh/jipk3yp8","slide":8,"bbox":[394,281,365,126]}
+{"kind":"textbox","id":"sh/wve1836x","slide":8,"text":"02","textPreview":"02","textChars":2,"textLines":1,"bbox":[411,298,42,25]}
+{"kind":"textbox","id":"sh/xw72187i","slide":8,"text":"Authorization","textPreview":"Authorization","textChars":13,"textLines":1,"bbox":[464,296,270,29]}
+{"kind":"textbox","id":"sh/atwj6tor","slide":8,"text":"Admin-only ingestion, analytics, and ticket routes","textPreview":"Admin-only ingestion, analytics, and ticket routes","textChars":50,"textLines":1,"bbox":[411,338,330,55]}
+{"kind":"shape","id":"sh/bu5kzypc","slide":8,"bbox":[394,432,365,126]}
+{"kind":"textbox","id":"sh/ore14j6l","slide":8,"text":"03","textPreview":"03","textChars":2,"textLines":1,"bbox":[411,449,42,25]}
+{"kind":"textbox","id":"sh/9snixo76","slide":8,"text":"Rate limiting","textPreview":"Rate limiting","textChars":13,"textLines":1,"bbox":[464,447,270,29]}
+{"kind":"textbox","id":"sh/pofi1kzu","slide":8,"text":"Separate limits for chat, authentication, and other endpoints","textPreview":"Separate limits for chat, authentication, and other endpoints","textChars":61,"textLines":1,"bbox":[411,489,330,55]}
+{"kind":"shape","id":"sh/on6h8fyp","slide":8,"bbox":[813,130,365,126]}
+{"kind":"textbox","id":"sh/3mxgzah4","slide":8,"text":"04","textPreview":"04","textChars":2,"textLines":1,"bbox":[830,147,42,25]}
+{"kind":"textbox","id":"sh/2loz65gj","slide":8,"text":"Agent scope","textPreview":"Agent scope","textChars":11,"textLines":1,"bbox":[883,145,270,29]}
+{"kind":"textbox","id":"sh/1kvyx0zy","slide":8,"text":"System prompt rules for domain limits and prompt-injection attempts","textPreview":"System prompt rules for domain limits and prompt-injection attempts","textChars":67,"textLines":1,"bbox":[830,187,330,55]}
+{"kind":"shape","id":"sh/gjmh4vid","slide":8,"bbox":[813,281,365,126]}
+{"kind":"textbox","id":"sh/fidgvahs","slide":8,"text":"05","textPreview":"05","textChars":2,"textLines":1,"bbox":[830,298,42,25]}
+{"kind":"textbox","id":"sh/eh4z2507","slide":8,"text":"Safe refunds","textPreview":"Safe refunds","textChars":12,"textLines":1,"bbox":[883,296,270,29]}
+{"kind":"textbox","id":"sh/lgzi94z2","slide":8,"text":"Two-step confirmation plus duplicate-refund prevention","textPreview":"Two-step confirmation plus duplicate-refund prevention","textChars":54,"textLines":1,"bbox":[830,338,330,55]}
+{"kind":"shape","id":"sh/0fqhgzyx","slide":8,"bbox":[813,432,365,126]}
+{"kind":"textbox","id":"sh/i10fa1gz","slide":8,"text":"06","textPreview":"06","textChars":2,"textLines":1,"bbox":[830,449,42,25]}
+{"kind":"textbox","id":"sh/jmtw36xk","slide":8,"text":"Audit privacy","textPreview":"Audit privacy","textChars":13,"textLines":1,"bbox":[883,447,270,29]}
+{"kind":"textbox","id":"sh/kn2xcre5","slide":8,"text":"Email, phone, card, and address patterns masked before logging","textPreview":"Email, phone, card, and address patterns masked before logging","textChars":62,"textLines":1,"bbox":[830,489,330,55]}
+{"kind":"notes","id":"nt/ce6v5s","slide":8,"text":"Source: server/middleware/auth.js, rateLimit.js, auditLogger.js, and server/rag/agent.js."}
+{"kind":"slide","id":"sl/9wevof","slide":9,"title":"Data and API Design","textShapes":21}
+{"kind":"textbox","id":"sh/47q1w7md","slide":9,"text":"Data and API Design","textPreview":"Data and API Design","textChars":19,"textLines":1,"bbox":[237,23,989,69]}
+{"kind":"textbox","id":"sh/36hk325s","slide":9,"text":"09","textPreview":"09","textChars":2,"textLines":1,"bbox":[54,37,110,34]}
+{"kind":"shape","id":"sh/258jux47","slide":9,"bbox":[54,679,1172,0]}
+{"kind":"textbox","id":"sh/h4f21snm","slide":9,"text":"AI Customer Support Chatbot","textPreview":"AI Customer Support Chatbot","textChars":27,"textLines":1,"bbox":[54,689,360,18]}
+{"kind":"textbox","id":"sh/g361s7m1","slide":9,"text":"9","textPreview":"9","textChars":1,"textLines":1,"bbox":[1160,689,66,18]}
+{"kind":"textbox","id":"sh/f2xkz25g","slide":9,"text":"STORAGE RESPONSIBILITIES","textPreview":"STORAGE RESPONSIBILITIES","textChars":24,"textLines":1,"bbox":[62,127,480,24]}
+{"kind":"shape","id":"sh/uhojqx4v","slide":9,"bbox":[62,168,530,186]}
+{"kind":"textbox","id":"sh/10j2dw3q","slide":9,"text":"PostgreSQL","textPreview":"PostgreSQL","textChars":10,"textLines":1,"bbox":[89,194,220,35]}
+{"kind":"textbox","id":"sh/0za14rm5","slide":9,"text":"Transactional records","textPreview":"Transactional records","textChars":21,"textLines":1,"bbox":[347,199,210,26]}
+{"kind":"textbox","id":"sh/65kvel0r","slide":9,"text":"Users and refresh tokens\nOrders and order items\nRefunds, tickets, and feedback","textPreview":"Users and refresh tokens | Orders and order items | Refunds, tickets, and feedback","textChars":78,"textLines":3,"bbox":[89,247,450,93]}
+{"kind":"shape","id":"sh/r6tc7q1c","slide":9,"bbox":[650,168,530,186]}
+{"kind":"textbox","id":"sh/s72dgvix","slide":9,"text":"MongoDB Atlas","textPreview":"MongoDB Atlas","textChars":13,"textLines":1,"bbox":[677,194,250,35]}
+{"kind":"textbox","id":"sh/t8bu90j2","slide":9,"text":"Conversation and retrieval data","textPreview":"Conversation and retrieval data","textChars":31,"textLines":1,"bbox":[924,199,229,26]}
+{"kind":"textbox","id":"sh/i10val0f","slide":9,"text":"Chat sessions and messages\nEmbedded document chunks\nVector and text-search indexes","textPreview":"Chat sessions and messages | Embedded document chunks | Vector and text-search indexes","textChars":82,"textLines":3,"bbox":[677,247,450,93]}
+{"kind":"textbox","id":"sh/j29c3610","slide":9,"text":"API SURFACE","textPreview":"API SURFACE","textChars":11,"textLines":1,"bbox":[62,410,480,24]}
+{"kind":"shape","id":"sh/432dcbil","slide":9,"bbox":[62,454,263,112]}
+{"kind":"textbox","id":"sh/54bu5gj6","slide":9,"text":"4 routes","textPreview":"4 routes","textChars":8,"textLines":1,"bbox":[81,474,225,38]}
+{"kind":"textbox","id":"sh/2x4vm50z","slide":9,"text":"Authentication","textPreview":"Authentication","textChars":14,"textLines":1,"bbox":[81,525,225,28]}
+{"kind":"shape","id":"sh/3ydwfa1k","slide":9,"bbox":[354,454,263,112]}
+{"kind":"textbox","id":"sh/zi5s72hw","slide":9,"text":"3 routes","textPreview":"3 routes","textChars":8,"textLines":1,"bbox":[373,474,225,38]}
+{"kind":"textbox","id":"sh/yhwrexgb","slide":9,"text":"Chat and feedback","textPreview":"Chat and feedback","textChars":17,"textLines":1,"bbox":[373,525,225,28]}
+{"kind":"shape","id":"sh/lk7a9cz2","slide":9,"bbox":[646,454,263,112]}
+{"kind":"textbox","id":"sh/kje9g7yh","slide":9,"text":"3 routes","textPreview":"3 routes","textChars":8,"textLines":1,"bbox":[665,474,225,38]}
+{"kind":"textbox","id":"sh/76psb2hs","slide":9,"text":"Knowledge ingestion","textPreview":"Knowledge ingestion","textChars":19,"textLines":1,"bbox":[665,525,225,28]}
+{"kind":"shape","id":"sh/m5grihg7","slide":9,"bbox":[938,454,263,112]}
+{"kind":"textbox","id":"sh/987adczy","slide":9,"text":"4 routes","textPreview":"4 routes","textChars":8,"textLines":1,"bbox":[957,474,225,38]}
+{"kind":"textbox","id":"sh/87y9k7yd","slide":9,"text":"Analytics and tickets","textPreview":"Analytics and tickets","textChars":21,"textLines":1,"bbox":[957,525,225,28]}
+{"kind":"textbox","id":"sh/vapsfmh4","slide":9,"text":"Cloudinary stores source documents while MongoDB stores extracted chunks and embeddings.","textPreview":"Cloudinary stores source documents while MongoDB stores extracted chunks and embeddings.","textChars":88,"textLines":1,"bbox":[62,608,1120,32]}
+{"kind":"notes","id":"nt/9wevof","slide":9,"text":"Source: README.md API Endpoints, server/seed.js, server/models/Session.js, and server/routes."}
+{"kind":"slide","id":"sl/o49ep7","slide":10,"title":"User and Admin Experience","textShapes":7}
+{"kind":"textbox","id":"sh/6h832x4z","slide":10,"text":"User and Admin Experience","textPreview":"User and Admin Experience","textChars":25,"textLines":1,"bbox":[237,23,989,69]}
+{"kind":"textbox","id":"sh/tkz2xc3q","slide":10,"text":"10","textPreview":"10","textChars":2,"textLines":1,"bbox":[54,37,110,34]}
+{"kind":"shape","id":"sh/8jql47m5","slide":10,"bbox":[54,679,1172,0]}
+{"kind":"textbox","id":"sh/juxkr2lo","slide":10,"text":"AI Customer Support Chatbot","textPreview":"AI Customer Support Chatbot","textChars":27,"textLines":1,"bbox":[54,689,360,18]}
+{"kind":"textbox","id":"sh/ytojyx43","slide":10,"text":"10","textPreview":"10","textChars":2,"textLines":1,"bbox":[1160,689,66,18]}
+{"kind":"textbox","id":"sh/lgz2tc3e","slide":10,"text":"Landing and product positioning","textPreview":"Landing and product positioning","textChars":31,"textLines":1,"bbox":[63,124,520,31]}
+{"kind":"textbox","id":"sh/3q1k3mls","slide":10,"text":"Focused conversation workspace","textPreview":"Focused conversation workspace","textChars":30,"textLines":1,"bbox":[672,124,520,31]}
+{"kind":"textbox","id":"sh/cn21snel","slide":10,"text":"Responsive dark and light themes with accessible input controls\nSocket.io updates switch the conversation to a human agent\nAdmin pages manage tickets, knowledge documents, and operational analytics","textPreview":"Responsive dark and light themes with accessible input controls | Socket.io updates switch the conversation to a human agent | Admin page...","textChars":197,"textLines":3,"bbox":[126,513,1028,103]}
+{"kind":"image","id":"im/d0v25gfi","slide":10,"name":"","geometry":"roundRect","alt":"Helix landing page","bbox":[63,167,545,307]}
+{"kind":"image","id":"im/z2dk7qdo","slide":10,"name":"","geometry":"roundRect","alt":"Helix chat page","bbox":[672,167,545,307]}
+{"kind":"notes","id":"nt/o49ep7","slide":10,"text":"Screenshots captured from the local project on 2026-09-29.\nSource: client/src/routes and client/src/styles.css."}
+{"kind":"slide","id":"sl/r9ujc5","slide":11,"title":"Testing and Evaluation","textShapes":21}
+{"kind":"textbox","id":"sh/432ho7ed","slide":11,"text":"Testing and Evaluation","textPreview":"Testing and Evaluation","textChars":22,"textLines":1,"bbox":[237,23,989,69]}
+{"kind":"textbox","id":"sh/32tgv2d8","slide":11,"text":"11","textPreview":"11","textChars":2,"textLines":1,"bbox":[54,37,110,34]}
+{"kind":"shape","id":"sh/2hkzmxwn","slide":11,"bbox":[54,679,1172,0]}
+{"kind":"textbox","id":"sh/d8vy1cva","slide":11,"text":"AI Customer Support Chatbot","textPreview":"AI Customer Support Chatbot","textChars":27,"textLines":1,"bbox":[54,689,360,18]}
+{"kind":"textbox","id":"sh/c7mhsrep","slide":11,"text":"11","textPreview":"11","textChars":2,"textLines":1,"bbox":[1160,689,66,18]}
+{"kind":"shape","id":"sh/r6dgzmd4","slide":11,"bbox":[63,139,363,418]}
+{"kind":"textbox","id":"sh/q5kzqhwj","slide":11,"text":"11","textPreview":"11","textChars":2,"textLines":1,"bbox":[95,170,300,106]}
+{"kind":"textbox","id":"sh/1cvy5wv6","slide":11,"text":"unit tests passed","textPreview":"unit tests passed","textChars":17,"textLines":1,"bbox":[95,272,300,41]}
+{"kind":"textbox","id":"sh/0bmhwrul","slide":11,"text":"2 suites verified on 29 September 2026","textPreview":"2 suites verified on 29 September 2026","textChars":38,"textLines":1,"bbox":[95,331,300,65]}
+{"kind":"textbox","id":"sh/adk3qpcn","slide":11,"text":"Coverage includes the agent loop, order lookup, refund checks, duplicate prevention, escalation, and error handling.","textPreview":"Coverage includes the agent loop, order lookup, refund checks, duplicate prevention, escalation, and error handling.","textChars":116,"textLines":1,"bbox":[95,423,300,92]}
+{"kind":"shape","id":"sh/bedkzud8","slide":11,"bbox":[492,139,725,92]}
+{"kind":"shape","id":"sh/cfmlszut","slide":11,"bbox":[511,164,42,42]}
+{"kind":"textbox","id":"sh/xgvm14ve","slide":11,"text":"✓","textPreview":"✓","textChars":1,"textLines":1,"bbox":[511,166,42,36]}
+{"kind":"textbox","id":"sh/yh43u9cz","slide":11,"text":"Unit tests","textPreview":"Unit tests","textChars":10,"textLines":1,"bbox":[577,156,260,30]}
+{"kind":"textbox","id":"sh/z2d43edk","slide":11,"text":"Verified passing","textPreview":"Verified passing","textChars":16,"textLines":1,"bbox":[858,159,330,48]}
+{"kind":"shape","id":"sh/k3mlwju5","slide":11,"bbox":[492,251,725,92]}
+{"kind":"shape","id":"sh/l4vm5ova","slide":11,"bbox":[511,276,42,42]}
+{"kind":"textbox","id":"sh/el03i5cv","slide":11,"text":"✓","textPreview":"✓","textChars":1,"textLines":1,"bbox":[511,278,42,36]}
+{"kind":"textbox","id":"sh/fmtkrad0","slide":11,"text":"Integration runner","textPreview":"Integration runner","textChars":18,"textLines":1,"bbox":[577,268,260,30]}
+{"kind":"textbox","id":"sh/jqp0z6ts","slide":11,"text":"Available, requires live databases","textPreview":"Available, requires live databases","textChars":34,"textLines":1,"bbox":[858,271,330,48]}
+{"kind":"shape","id":"sh/ipgzq1sn","slide":11,"bbox":[492,363,725,92]}
+{"kind":"shape","id":"sh/5s7i1gby","slide":11,"bbox":[511,388,42,42]}
+{"kind":"textbox","id":"sh/4ryhsbad","slide":11,"text":"✓","textPreview":"✓","textChars":1,"textLines":1,"bbox":[511,390,42,36]}
+{"kind":"textbox","id":"sh/vm50v6tw","slide":11,"text":"Prompt-injection runner","textPreview":"Prompt-injection runner","textChars":23,"textLines":1,"bbox":[577,380,260,30]}
+{"kind":"textbox","id":"sh/ulwzm1sb","slide":11,"text":"Available, requires configured services","textPreview":"Available, requires configured services","textChars":39,"textLines":1,"bbox":[858,383,330,48]}
+{"kind":"shape","id":"sh/ho7ixgb2","slide":11,"bbox":[492,475,725,92]}
+{"kind":"shape","id":"sh/wnyhobah","slide":11,"bbox":[511,500,42,42]}
+{"kind":"textbox","id":"sh/fi907qt0","slide":11,"text":"✓","textPreview":"✓","textChars":1,"textLines":1,"bbox":[511,502,42,36]}
+{"kind":"textbox","id":"sh/eh0jylsf","slide":11,"text":"RAG evaluation","textPreview":"RAG evaluation","textChars":14,"textLines":1,"bbox":[577,492,260,30]}
+{"kind":"textbox","id":"sh/cra5c3m1","slide":11,"text":"30-query recall and precision script","textPreview":"30-query recall and precision script","textChars":36,"textLines":1,"bbox":[858,495,330,48]}
+{"kind":"textbox","id":"sh/dcj658n6","slide":11,"text":"The deck reports only the unit suite as executed and passing.","textPreview":"The deck reports only the unit suite as executed and passing.","textChars":61,"textLines":1,"bbox":[492,607,725,31]}
+{"kind":"notes","id":"nt/r9ujc5","slide":11,"text":"Unit command executed: npm test in server directory.\nResult: 2 suites passed and 11 tests passed.\nOther runners exist in server/package.json but were not executed because they require configured external services."}
+{"kind":"slide","id":"sl/jltqxw","slide":12,"title":"Limitations and Future Scope","textShapes":9}
+{"kind":"textbox","id":"sh/et47ad4z","slide":12,"text":"Limitations and Future Scope","textPreview":"Limitations and Future Scope","textChars":28,"textLines":1,"bbox":[237,23,989,69]}
+{"kind":"textbox","id":"sh/1gf6lsnq","slide":12,"text":"12","textPreview":"12","textChars":2,"textLines":1,"bbox":[54,37,110,34]}
+{"kind":"shape","id":"sh/gv6pcnm5","slide":12,"bbox":[54,679,1172,0]}
+{"kind":"textbox","id":"sh/3ix8n25w","slide":12,"text":"AI Customer Support Chatbot","textPreview":"AI Customer Support Chatbot","textChars":27,"textLines":1,"bbox":[54,689,360,18]}
+{"kind":"textbox","id":"sh/2ho7ex4b","slide":12,"text":"12","textPreview":"12","textChars":2,"textLines":1,"bbox":[1160,689,66,18]}
+{"kind":"textbox","id":"sh/pkfqpsnm","slide":12,"text":"CURRENT TRADEOFFS","textPreview":"CURRENT TRADEOFFS","textChars":17,"textLines":1,"bbox":[62,127,490,24]}
+{"kind":"textbox","id":"sh/oj6pgnmh","slide":12,"text":"RECOMMENDED NEXT STEPS","textPreview":"RECOMMENDED NEXT STEPS","textChars":22,"textLines":1,"bbox":[665,127,490,24]}
+{"kind":"textbox","id":"sh/bmh8r25s","slide":12,"text":"Agent memory lives in one server process\nChat responses return only after the full tool loop\nReranking uses exact term overlap instead of a learned model\nKnowledge ingestion currently accepts PDF files\nRate limits reset when the server restarts\nRefund confirmation still depends on model behavior","textPreview":"Agent memory lives in one server process | Chat responses return only after the full tool loop | Reranking uses exact term overlap instea...","textChars":296,"textLines":6,"bbox":[62,178,520,392]}
+{"kind":"textbox","id":"sh/qlo7ix47","slide":12,"text":"Move session memory and rate counters to Redis\nStream partial responses through SSE or WebSockets\nAdd a cross-encoder reranker and retrieval telemetry\nSupport DOCX, TXT, JSON, and CSV ingestion\nAdd a deterministic approval gate for refunds\nSummarize long conversations before the context limit","textPreview":"Move session memory and rate counters to Redis | Stream partial responses through SSE or WebSockets | Add a cross-encoder reranker and re...","textChars":293,"textLines":6,"bbox":[665,178,520,392]}
+{"kind":"shape","id":"sh/87yxwfy5","slide":12,"bbox":[62,588,1123,50]}
+{"kind":"textbox","id":"sh/t87y50fq","slide":12,"text":"Priority: make state and policy enforcement deterministic before scaling traffic.","textPreview":"Priority: make state and policy enforcement deterministic before scaling traffic.","textChars":81,"textLines":1,"bbox":[82,601,1083,28]}
+{"kind":"notes","id":"nt/jltqxw","slide":12,"text":"Source: README.md Known Limitations & Design Tradeoffs section."}
+{"kind":"slide","id":"sl/ow0luu","slide":13,"title":"Project Outcome","textShapes":14}
+{"kind":"textbox","id":"sh/6dczuh4n","slide":13,"text":"Project Outcome","textPreview":"Project Outcome","textChars":15,"textLines":1,"bbox":[237,23,989,69]}
+{"kind":"textbox","id":"sh/tg3y5wne","slide":13,"text":"13","textPreview":"13","textChars":2,"textLines":1,"bbox":[54,37,110,34]}
+{"kind":"shape","id":"sh/sfuhwrmt","slide":13,"bbox":[54,679,1172,0]}
+{"kind":"textbox","id":"sh/f2lg7654","slide":13,"text":"AI Customer Support Chatbot","textPreview":"AI Customer Support Chatbot","textChars":27,"textLines":1,"bbox":[54,689,360,18]}
+{"kind":"textbox","id":"sh/uhczy14j","slide":13,"text":"13","textPreview":"13","textChars":2,"textLines":1,"bbox":[1160,689,66,18]}
+{"kind":"textbox","id":"sh/h43y9wna","slide":13,"text":"A working support system that connects grounded answers to real customer-service actions.","textPreview":"A working support system that connects grounded answers to real customer-service actions.","textChars":89,"textLines":1,"bbox":[101,147,1078,103]}
+{"kind":"shape","id":"sh/g3uh0bmp","slide":13,"bbox":[66,319,263,190]}
+{"kind":"shape","id":"sh/365gb65g","slide":13,"bbox":[66,319,263,11]}
+{"kind":"textbox","id":"sh/25wz214v","slide":13,"text":"Grounded","textPreview":"Grounded","textChars":8,"textLines":1,"bbox":[86,354,222,34]}
+{"kind":"textbox","id":"sh/4vyl0ju1","slide":13,"text":"Hybrid RAG searches store-specific knowledge.","textPreview":"Hybrid RAG searches store-specific knowledge.","textChars":45,"textLines":1,"bbox":[86,408,222,72]}
+{"kind":"shape","id":"sh/pw72tobm","slide":13,"bbox":[358,319,263,190]}
+{"kind":"shape","id":"sh/itg3y9cv","slide":13,"bbox":[358,319,263,11]}
+{"kind":"textbox","id":"sh/3upkretg","slide":13,"text":"Actionable","textPreview":"Actionable","textChars":10,"textLines":1,"bbox":[378,354,222,34]}
+{"kind":"textbox","id":"sh/czil4jux","slide":13,"text":"Tools query orders and create refund records.","textPreview":"Tools query orders and create refund records.","textChars":45,"textLines":1,"bbox":[378,408,222,72]}
+{"kind":"shape","id":"sh/d0r2xobi","slide":13,"bbox":[650,319,263,190]}
+{"kind":"shape","id":"sh/qxg32tc7","slide":13,"bbox":[650,319,263,11]}
+{"kind":"textbox","id":"sh/rypkvyts","slide":13,"text":"Supervised","textPreview":"Supervised","textChars":10,"textLines":1,"bbox":[670,354,222,34]}
+{"kind":"textbox","id":"sh/0nil83u9","slide":13,"text":"Complex cases carry context into human support.","textPreview":"Complex cases carry context into human support.","textChars":47,"textLines":1,"bbox":[670,408,222,72]}
+{"kind":"shape","id":"sh/1or218bu","slide":13,"bbox":[942,319,263,190]}
+{"kind":"shape","id":"sh/983u54zm","slide":13,"bbox":[942,319,263,11]}
+{"kind":"textbox","id":"sh/o7utwzy1","slide":13,"text":"Observable","textPreview":"Observable","textChars":10,"textLines":1,"bbox":[962,354,222,34]}
+{"kind":"textbox","id":"sh/n6lc3uhg","slide":13,"text":"Tests, analytics, feedback, and audit logs expose behavior.","textPreview":"Tests, analytics, feedback, and audit logs expose behavior.","textChars":59,"textLines":1,"bbox":[962,408,222,72]}
+{"kind":"textbox","id":"sh/m5cbupgv","slide":13,"text":"Thank you","textPreview":"Thank you","textChars":9,"textLines":1,"bbox":[101,565,1078,51]}
+{"kind":"notes","id":"nt/ow0luu","slide":13,"text":"Closing summary based on implemented features in the project repository."}

@@ -1,0 +1,43 @@
+{
+  "name": "ai-support-chatbot-server",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "nodemon index.js",
+    "start": "node index.js",
+    "test": "node --experimental-vm-modules node_modules/jest/bin/jest.js --runInBand tests/tools.test.js tests/agent.test.js",
+    "test:unit": "npm test",
+    "test:integration": "node tests/integration.test.js",
+    "test:prompt-injection": "node tests/prompt_injection.test.js"
+  },
+  "dependencies": {
+    "@google/generative-ai": "^0.21.0",
+    "@langchain/core": "^1.1.47",
+    "@langchain/google-genai": "^2.1.31",
+    "@langchain/mongodb": "^1.2.1",
+    "@langchain/openai": "^1.4.6",
+    "@langchain/textsplitters": "^1.0.1",
+    "bcryptjs": "^2.4.3",
+    "cloudinary": "^2.5.1",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "express": "^4.21.2",
+    "express-rate-limit": "^7.4.1",
+    "helmet": "^8.3.0",
+    "jsonwebtoken": "^9.0.2",
+    "mongoose": "^8.9.2",
+    "multer": "^1.4.5-lts.1",
+    "multer-storage-cloudinary": "^4.0.0",
+    "node-cron": "^4.6.0",
+    "nodemailer": "^10.0.10",
+    "pdf-parse": "^1.1.1",
+    "pg": "^8.13.1",
+    "socket.io": "^4.8.3",
+    "uuid": "^11.0.5",
+    "zod": "^4.4.3"
+  },
+  "devDependencies": {
+    "jest": "^30.2.0",
+    "nodemon": "^3.1.9"
+  }
+}
